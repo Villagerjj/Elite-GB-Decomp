@@ -17,7 +17,6 @@ Controls:
 
 
  
-## Current issue:
+## Current issues:
 
-- the rom does not have correct headers, this makes emulators not run the rom properly.
-- 
+- idk how to inject 3D data into the code yet :(
