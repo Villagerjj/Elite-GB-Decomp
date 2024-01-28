@@ -17,3 +17,7 @@ Controls:
 
 
  
+## Current issue:
+
+- the rom does not have correct headers, this makes emulators not run the rom properly.
+- 
